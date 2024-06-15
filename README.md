@@ -1,7 +1,7 @@
 # AgentSpace
 
 [![PyPI Version](https://img.shields.io/pypi/v/agentspace.svg)](https://pypi.org/project/agentspace/)
-[![License](https://img.shields.io/pypi/l/agentspace.svg)](https://github.com/yourusername/agentspace/blob/main/LICENSE)
+[![License](https://img.shields.io/pypi/l/agentspace.svg)](https://github.com/dancaron/agentspace/blob/main/LICENSE)
 [![Python Versions](https://img.shields.io/pypi/pyversions/agentspace.svg)](https://pypi.org/project/agentspace/)
 
 AgentSpace is a compact and easy-to-use agent framework for building agent-based systems in Python. It provides a simple way to create and manage agents, assign tasks to agents, and run agents concurrently.
