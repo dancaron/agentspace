@@ -65,7 +65,7 @@ if __name__ == "__main__":
 
 ## Documentation
 
-For detailed documentation and API reference, please visit the [AgentSpace Documentation](https://github.com/yourusername/agentspace/wiki).
+For detailed documentation and API reference, please visit the [AgentSpace Documentation](https://github.com/dancaron/agentspace/wiki).
 
 ## Contributing
 
@@ -73,7 +73,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 
-AgentSpace is released under the [MIT License](https://github.com/yourusername/agentspace/blob/main/LICENSE).
+AgentSpace is released under the [MIT License](https://github.com/dancaron/agentspace/blob/main/LICENSE).
 
 ## Contact
 
