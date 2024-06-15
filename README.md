@@ -1,6 +1,6 @@
 # AgentSpace
 
-[[ML/AI](https://img.shields.io/badge/ML-AI-blue)
+[![ML/AI](https://img.shields.io/badge/ML-AI-blue)]
 
 AgentSpace is a compact and easy-to-use agent framework for building agent-based systems in Python. It provides a simple way to create and manage agents, assign tasks to agents, and run agents concurrently.
 
